@@ -1,0 +1,26 @@
+h1{
+    background-color: yellowgreen;
+}
+
+h1{
+    background-color: blueviolet;
+}
+
+div{
+    background-color: blue;
+    color: beige;
+}
+
+p{
+    color: inherit;
+}
+
+.second{
+    background-color: gray;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 60px;
+}
+
+#parrafo{
+    color: rgb(70, 3, 3);
+}
